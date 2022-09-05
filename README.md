@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Computer Engineering 3/4. trying to become fullstack developer.</h3>
 
 <h4> 
 <a> - 🔭 I’m currently imrpove myself on **Java & Spring Boot!**</a>
