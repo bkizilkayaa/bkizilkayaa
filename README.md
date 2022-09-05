@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Burak</h2>
 
 <h4> 
-<a> - 🔭 I’m currently imrpove myself on **Java & Spring Boot!**</a>
+<a> - 🔭 I’m currently working on **Java & Spring Boot!**</a>
 <br/>
 
 <a>- 🤝 I’m looking for help with **React JS...**</a>
