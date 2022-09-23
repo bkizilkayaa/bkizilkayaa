@@ -1,7 +1,9 @@
-<h2 align="left">Hi 👋, I'm Burak</h2>
+<h2 align="left">Hi 👋, I'm Burak Kizilkaya</h2>
 
 <h4> 
-<a> - 🔭 I’m currently working on **Java & Spring Boot!**</a>
+<a>   - 🔭 I'm 3rd grade Computer Engineering student at Trakya University. I am a self-learner. </br> </a>
+<a>   - 🔭 Currently improve myself on back-end side. </a> </br>
+<a>   - 🔭 Working on **Java & Spring Framework** </a>
 <br/>
 
 <a>- 🤝 I’m looking for help with **React JS...**</a>
