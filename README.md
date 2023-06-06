@@ -21,5 +21,5 @@
 
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bkizilkayaa&show_icons=true&theme=radical" alt="bkizilkayaa" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bkizilkayaa&show_icons=true&theme=radical" alt="bkizilkayaa" /></p>
 
