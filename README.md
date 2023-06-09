@@ -1,19 +1,22 @@
 <h2 align="left">Hi 👋, I'm Burak Kizilkaya</h2>
 
 <h4> 
-<a>   - 🔭 I'm 3rd grade Computer Engineering student at Trakya University. I am a self-learner. </br> </a>
-<a>   - 🔭 Currently improve myself on back-end side. </a> </br>
+<a>   - 🔭 Third grade Computer Engineering student at Trakya University. Im a self-learner. </br> </a>
 <a>   - 🔭 Working on **Java & Spring Framework** </a>
 <br/>
 
 <a>- 🤝 I’m looking for help with **React JS...**</a>
 <br/>
-<a>- 📫 How to reach me **burakkizilkaya99@gmail.com** </a> </h4>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burakkizilkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakkizilkaya" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="mailto:burakkizilkaya99@gmail.com" target="_blank" rel="noreferrer"> <img alt="Mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  &nbsp;
+  <a href="http://burakdev.online" target="_blank" rel="noreferrer"> <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/burakkizilkaya" target="_blank" rel="noreferrer"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  &nbsp;
+  </div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
