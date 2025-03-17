@@ -1,11 +1,10 @@
 <h2 align="left">Hi 👋, I'm Burak Kizilkaya</h2>
 
 <h4> 
-<a>   - 🔭 Third grade Computer Engineering student at Trakya University. Im a self-learner. </br> </a>
-<a>   - 🔭 Working on **Java & Spring Framework** </a>
+<a>   - 🔭 Engineer, self learner.</br> </a>
+<a>   - 🔭 **Java, Spring, React JS** </a>
 <br/>
 
-<a>- 🤝 I’m looking for help with **React JS...**</a>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
