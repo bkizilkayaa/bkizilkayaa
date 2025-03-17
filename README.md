@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋, I'm Burak Kizilkaya</h2>
 
 <h4> 
-<a>   - 🔭 Engineer, self learner.</br> </a>
-<a>   - 🔭 **Java, Spring, React JS** </a>
+<a>   - Engineer, self learner.</br> </a>
+<a>   - **Java, Spring, React JS** </a>
 <br/>
 
 <br/>
